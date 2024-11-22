@@ -1,82 +1,87 @@
 SCR 4 0 RS1ee9bb229dabffe151848d7efa3c10f748e1a1cf "Custom: lyrics.lua" Cockos/lyrics.lua
 SCR 4 32060 RS7d3c_1ee9bb229dabffe151848d7efa3c10f748e1a1cf "Custom: lyrics.lua" Cockos/lyrics.lua
 SCR 4 0 RS1cbf05b0c4f875518496f34a5ce45adefe05cb67 "Custom: Default_6.0_theme_adjuster.lua" Cockos/Default_6.0_theme_adjuster.lua
-SCR 4 0 RS1ee9bb229dabffe151848d7efa3c10f748e1a1cf "Custom: lyrics.lua" Cockos/lyrics.lua
-SCR 4 32060 RS7d3c_1ee9bb229dabffe151848d7efa3c10f748e1a1cf "Custom: lyrics.lua" Cockos/lyrics.lua
-SCR 4 0 RS1cbf05b0c4f875518496f34a5ce45adefe05cb67 "Custom: Default_6.0_theme_adjuster.lua" Cockos/Default_6.0_theme_adjuster.lua
-KEY 0 64 0 0
-KEY 17 68 0 0
-KEY 1 113 0 0
-KEY 255 250 0 0
-KEY 255 216 0 0
-KEY 255 251 0 0
-KEY 255 218 0 0
-KEY 5 78 0 0
-KEY 255 249 0 0
-KEY 5 32808 0 0
-KEY 255 184 0 0
-KEY 255 168 0 0
-KEY 5 32806 0 0
-KEY 17 32807 0 0
-KEY 17 32805 0 0
-KEY 1 32802 0 0
-KEY 1 32808 0 0
-KEY 1 109 0 0
-KEY 0 45 0 0
-KEY 1 32806 0 0
-KEY 0 43 0 0
-KEY 0 61 0 0
-KEY 1 107 0 0
-KEY 13 32808 0 0
-KEY 1 32801 0 0
-KEY 13 32806 0 0
-KEY 25 82 0 0
-KEY 1 32804 0 0
-KEY 17 80 0 0
-KEY 255 13032 0 0
-KEY 17 13 0 0
-KEY 9 113 0 0
-KEY 255 248 988 0
-KEY 255 6396 989 0
-KEY 255 220 989 0
-KEY 1 83 1011 0
-KEY 1 87 1012 0
-KEY 0 46 1016 0
-KEY 1 67 1155 0
-KEY 5 71 1157 0
-KEY 1 73 40011 0
-KEY 1 88 40012 0
-KEY 13 82 40015 0
-KEY 9 73 40021 0
-KEY 1 81 40042 0
-KEY 9 82 40046 0
-KEY 5 87 40111 0
-KEY 5 83 40112 0
-KEY 17 87 40155 0
-KEY 33 87 40155 0
-KEY 17 83 40156 0
-KEY 33 83 40156 0
-KEY 5 68 40173 0
-KEY 1 32807 40173 0
-KEY 9 77 40183 0
-KEY 17 77 40250 0
-KEY 1 78 40254 0
-KEY 1 77 40279 0
-KEY 1 70 40290 0
-KEY 1 82 40360 0
-KEY 13 71 40362 0
-KEY 1 65 40416 0
-KEY 1 68 40417 0
-KEY 25 65 40421 0
-KEY 9 69 40726 0
-KEY 5 65 40727 0
-KEY 13 86 41072 0
-KEY 1 69 41205 0
-KEY 1 79 41589 0
-KEY 1 83 1011 32060
-KEY 1 87 1012 32060
-KEY 9 81 40009 32060
-KEY 1 81 40036 32060
-KEY 1 88 40046 32060
-KEY 5 87 40111 32060
-KEY 5 83 40112 32060
+SCR 4 0 RS4e8226c4d63875c3f50a4477dd4fb008aadb9431 "Custom: spk77_Create envelope points from FX param values.lua" "ReaTeam Scripts/Envelopes/spk77_Create envelope points from FX param values.lua"
+SCR 4 0 RSa868e1c35478ef4104e529c88d6ef2ca07963cc9 "Custom: spk77_Delete track FX envelope points in time selection (last focused FX) .lua" "ReaTeam Scripts/Envelopes/spk77_Delete track FX envelope points in time selection (last focused FX) .lua"
+SCR 4 0 RS6c2efb3f983d062c88752f161da4cbbd6ab222e9 "Custom: Default_7.0_theme_adjuster.lua" Cockos/Default_7.0_theme_adjuster.lua
+KEY 0 64 0 0		 # Main : @ : DISABLED DEFAULT
+KEY 17 68 0 0		 # Main : Alt+D : DISABLED DEFAULT
+KEY 1 113 0 0		 # Main : F2 : DISABLED DEFAULT
+KEY 255 250 0 0		 # Main : Alt+Mousewheel : DISABLED DEFAULT
+KEY 255 216 0 0		 # Main : HorizWheel : DISABLED DEFAULT
+KEY 255 251 0 0		 # Main : Ctrl+Alt+Mousewheel : DISABLED DEFAULT
+KEY 255 218 0 0		 # Main : Alt+HorizWheel : DISABLED DEFAULT
+KEY 5 78 0 0		 # Main : Shift+N : DISABLED DEFAULT
+KEY 255 249 0 0		 # Main : Ctrl+Mousewheel : DISABLED DEFAULT
+KEY 5 32808 0 0		 # Main : Shift+NACH-UNTEN : DISABLED DEFAULT
+KEY 255 184 0 0		 # Main : MultiVert : DISABLED DEFAULT
+KEY 255 168 0 0		 # Main : MultiHorz : DISABLED DEFAULT
+KEY 5 32806 0 0		 # Main : Shift+NACH-OBEN : DISABLED DEFAULT
+KEY 17 32807 0 0		 # Main : Alt+NACH-RECHTS : DISABLED DEFAULT
+KEY 17 32805 0 0		 # Main : Alt+NACH-LINKS : DISABLED DEFAULT
+KEY 1 32802 0 0		 # Main : BILD-NACH-UNTEN : DISABLED DEFAULT
+KEY 1 32808 0 0		 # Main : NACH-UNTEN : DISABLED DEFAULT
+KEY 1 109 0 0		 # Main : - (ZEHNERTASTATUR) : DISABLED DEFAULT
+KEY 0 45 0 0		 # Main : - : DISABLED DEFAULT
+KEY 1 32806 0 0		 # Main : NACH-OBEN : DISABLED DEFAULT
+KEY 0 43 0 0		 # Main : + : DISABLED DEFAULT
+KEY 0 61 0 0		 # Main : = : DISABLED DEFAULT
+KEY 1 107 0 0		 # Main : + (ZEHNERTASTATUR) : DISABLED DEFAULT
+KEY 13 32808 0 0		 # Main : Ctrl+Shift+NACH-UNTEN : DISABLED DEFAULT
+KEY 1 32801 0 0		 # Main : BILD-NACH-OBEN : DISABLED DEFAULT
+KEY 13 32806 0 0		 # Main : Ctrl+Shift+NACH-OBEN : DISABLED DEFAULT
+KEY 25 82 0 0		 # Main : Ctrl+Alt+R : DISABLED DEFAULT
+KEY 1 32804 0 0		 # Main : POS1 : DISABLED DEFAULT
+KEY 17 80 0 0		 # Main : Alt+P : DISABLED DEFAULT
+KEY 255 13032 0 0		 # Main : MediaKbd+Rew : DISABLED DEFAULT
+KEY 17 13 0 0		 # Main : Alt+EINGABE : DISABLED DEFAULT
+KEY 9 113 0 0		 # Main : Ctrl+F2 : DISABLED DEFAULT
+KEY 255 248 988 0		 # Main : Mousewheel : OVERRIDE DEFAULT : View: Scroll horizontally (MIDI CC relative/mousewheel)
+KEY 255 6396 989 0		 # Main : Shift+Mousewheel : View: Scroll vertically (MIDI CC relative/mousewheel)
+KEY 255 220 989 0		 # Main : Shift+HorizWheel : View: Scroll vertically (MIDI CC relative/mousewheel)
+KEY 1 83 1011 0		 # Main : S : OVERRIDE DEFAULT : View: Zoom out horizontal
+KEY 1 87 1012 0		 # Main : W : OVERRIDE DEFAULT : View: Zoom in horizontal
+KEY 0 46 1016 0		 # Main : . : OVERRIDE DEFAULT : Transport: Stop
+KEY 1 76 1068 0		 # Main : L : OVERRIDE DEFAULT : Transport: Toggle repeat
+KEY 1 67 1155 0		 # Main : C : Options: Cycle ripple editing mode
+KEY 5 71 1157 0		 # Main : Shift+G : OVERRIDE DEFAULT : Options: Toggle snapping
+KEY 1 73 40011 0		 # Main : I : Item properties: Show media item source properties
+KEY 1 88 40012 0		 # Main : X : OVERRIDE DEFAULT : Item: Split items at edit or play cursor (select right)
+KEY 13 82 40015 0		 # Main : Ctrl+Shift+R : File: Render project to disk...
+KEY 9 73 40021 0		 # Main : Ctrl+I : File: Project settings...
+KEY 1 81 40042 0		 # Main : Q : Transport: Go to start of project
+KEY 5 87 40111 0		 # Main : Shift+W : OVERRIDE DEFAULT : View: Zoom in vertical
+KEY 5 83 40112 0		 # Main : Shift+S : OVERRIDE DEFAULT : View: Zoom out vertical
+KEY 17 87 40155 0		 # Main : Alt+W : Peaks: Increase peaks display zoom for project
+KEY 33 87 40155 0		 # Main : Win+W : Peaks: Increase peaks display zoom for project
+KEY 17 83 40156 0		 # Main : Alt+S : OVERRIDE DEFAULT : Peaks: Decrease peaks display zoom for project
+KEY 33 83 40156 0		 # Main : Win+S : Peaks: Decrease peaks display zoom for project
+KEY 5 68 40173 0		 # Main : Shift+D : Markers: Go to next marker/project end
+KEY 1 32807 40173 0		 # Main : NACH-RECHTS : OVERRIDE DEFAULT : Markers: Go to next marker/project end
+KEY 9 77 40183 0		 # Main : Ctrl+M : OVERRIDE DEFAULT : Item properties: Toggle items/tracks mute (depending on focus)
+KEY 17 77 40250 0		 # Main : Alt+M : OVERRIDE DEFAULT : Track: Toggle show/hide in mixer
+KEY 1 78 40254 0		 # Main : N : OVERRIDE DEFAULT : Item properties: Normalize items together (common gain) to +0dB peak
+KEY 1 77 40279 0		 # Main : M : OVERRIDE DEFAULT : View: Show docker
+KEY 1 70 40290 0		 # Main : F : OVERRIDE DEFAULT : Time selection: Set time selection to items
+KEY 1 82 40360 0		 # Main : R : OVERRIDE DEFAULT : Track: Set to one random color
+KEY 1 84 0 0		 # Main : T : DISABLED DEFAULT
+KEY 1 65 40416 0		 # Main : A : Item navigation: Select and move to previous item
+KEY 1 68 40417 0		 # Main : D : OVERRIDE DEFAULT : Item navigation: Select and move to next item
+KEY 25 65 40421 0		 # Main : Ctrl+Alt+A : Item: Select all items in track
+KEY 9 69 40726 0		 # Main : Ctrl+E : OVERRIDE DEFAULT : Envelope: Insert 4 envelope points at time selection
+KEY 5 65 40727 0		 # Main : Shift+A : View: Minimize all tracks
+KEY 13 71 40876 0		 # Main : Ctrl+Shift+G : OVERRIDE DEFAULT : Global automation override: No override (set automation modes per track)
+KEY 13 84 40880 0		 # Main : Ctrl+Shift+T : OVERRIDE DEFAULT : Global automation override: All automation in touch mode
+KEY 9 82 40887 0		 # Main : Ctrl+R : OVERRIDE DEFAULT : Envelope: Reduce number of points...
+KEY 13 86 41072 0		 # Main : Ctrl+Shift+V : OVERRIDE DEFAULT : Item: Paste items/tracks, creating pooled (ghost) MIDI items and automation items regardless of preferences/Media/MIDI and prefe
+KEY 1 69 41205 0		 # Main : E : OVERRIDE DEFAULT : Item edit: Move position of item to edit cursor
+KEY 1 79 41589 0		 # Main : O : Item properties: Toggle show media item/take properties
+KEY 13 69 _RS4e8226c4d63875c3f50a4477dd4fb008aadb9431 0		 # Main : Ctrl+Shift+E : Script: spk77_Create envelope points from FX param values.lua
+KEY 25 69 _RSa868e1c35478ef4104e529c88d6ef2ca07963cc9 0		 # Main : Ctrl+Alt+E : OVERRIDE DEFAULT : Script: spk77_Delete track FX envelope points in time selection (last focused FX) .lua
+KEY 1 83 1011 32060		 # MIDI Editor : S : OVERRIDE DEFAULT : View: Zoom out horizontally
+KEY 1 87 1012 32060		 # MIDI Editor : W : OVERRIDE DEFAULT : View: Zoom in horizontally
+KEY 9 81 40009 32060		 # MIDI Editor : Ctrl+Q : Quantize...
+KEY 1 81 40036 32060		 # MIDI Editor : Q : OVERRIDE DEFAULT : View: Go to start of file
+KEY 1 88 40046 32060		 # MIDI Editor : X : Edit: Split notes
+KEY 5 87 40111 32060		 # MIDI Editor : Shift+W : View: Zoom in vertically
+KEY 5 83 40112 32060		 # MIDI Editor : Shift+S : OVERRIDE DEFAULT : View: Zoom out vertically
